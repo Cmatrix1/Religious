@@ -1,0 +1,8 @@
+1. Events => Backend
+2. Accounts => Backend
+3. Payment
+4. Groups
+5. Archive
+6. Prayer
+7. Ceremony && Ceremony Register => Backend
+8. Poll => Backend 
